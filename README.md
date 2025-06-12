@@ -46,8 +46,9 @@ Available data files (some data is available in Releases due to size restriction
 ```bash
 python Data_encoding.py
 ```
+
 2.Train a MTEGDRP model:
-'''bash
+```
 python Model_training.py
 
 
