@@ -45,3 +45,9 @@ Available data files (some data is available in Releases due to size restriction
 1. Create data in pytorch tensor format:
 ```bash
 python Data_encoding.py
+```
+2.Train a MTEGDRP model:
+'''bash
+python Model_training.py
+
+
