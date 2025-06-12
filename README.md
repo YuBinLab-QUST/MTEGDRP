@@ -26,7 +26,7 @@ Available data files (some data is available in Releases due to size restriction
 
 ## Requirements
 
-- torch==1.10.2+cu11
+- torch==1.10.2+cu113
 - python==3.8.20
 - rdkit==2024.3.5
 - pandas==2.0.3
