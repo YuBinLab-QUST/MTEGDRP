@@ -50,5 +50,3 @@ python Data_encoding.py
 2.Train a MTEGDRP model:
 ```
 python Model_training.py
-
-
