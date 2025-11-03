@@ -564,3 +564,4 @@ drug_id,Name,Synonyms,Targets,Target pathway,PubCHEM,Sample Size,Count,jlk_X,jlk
 1998,BPD-00008900,,,Other,,GDSC2,752,SANGER,565
 2170,AT13148,,AKT1,PI3K/MTOR signaling,,GDSC2,745,SANGER,565
 2171,BMS-754807,BMS-754807,"IGF1R, IR",IGF1R signaling,,GDSC2,46,SANGER,565
+
