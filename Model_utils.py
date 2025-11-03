@@ -205,4 +205,5 @@ def draw_pearson(pearsons, title):
     plt.xlabel('Epoch')
     plt.ylabel('Pearson')
     plt.legend()
+
     plt.savefig(title + ".png")  # should before show method
