@@ -17,7 +17,7 @@ Available data files (some data is available in Releases due to size restriction
 - `pychem_cid.csv` - pychem cid information for model training drugs
 - `small_molecule.csv` - Small molecule information for model training drugs
 - `unknow_drug_by_pychem.csv` - No drugs listed for pychem cid
-
+ 
 ## Source Code
 
 - `Data_encoding.py`: Encodes drug data and cancer cell line data into pytorch tensor format for model training. Also handles partitioning into training, test and validation sets.
