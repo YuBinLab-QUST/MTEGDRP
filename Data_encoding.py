@@ -28,7 +28,7 @@ from torch import optim
 from torch.utils.data import Dataset, DataLoader
 import matplotlib.pyplot as plt
 
-
+ 
 def is_not_float(string_list):
     try:
         for string in string_list:
@@ -603,4 +603,5 @@ if __name__ == "__main__":
     parser.add_argument('--choice', type=int, required=False, default=0, help='0.KernelPCA, 1.PCA, 2.Isomap')
     args = parser.parse_args()
     choice = args.choice
+
     save_mix_drug_cell_matrix()
