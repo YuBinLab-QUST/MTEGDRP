@@ -5,7 +5,7 @@ __Time__: 2024/8/21 14:30
 __File__: MTEGDRP.py
 __remark__:
 __Software__: PyCharm
-"""
+""" 
 import torch
 import torch.nn as nn
 from torch.nn import Linear
